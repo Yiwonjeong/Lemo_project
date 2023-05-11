@@ -5,6 +5,7 @@
 블로그형 숙박 예약 웹사이트<br/>
 Blog type Hotel Booking Site<br/>
 <br/>
+http://this-circle-jeong.site/Lemo/
 
 ## 프로젝트 산출물
 
