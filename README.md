@@ -13,7 +13,7 @@ http://junghyun.site/Lemo/ (대표 서버)
 [LEMO Project 스프레드시트](https://docs.google.com/spreadsheets/d/1g1_pXSo88nbbJbCdhzgQ4fqB4OPCF-Uaa3gWi8o0Ogw/edit#gid=0) - 개발 기간 동안의 회의록, 일정표, 플로우 차트 등에 대한 자료들이 정리되어 있습니다.<br/>
 [LEMO Project 시연 동영상](https://www.youtube.com/watch?v=XYvLcc3jkvs&list=PL1mzjfr5p2obtALJpcc-zskZDSRy-Me9-) - 개발한 서비스를 시연하는 영상입니다.<br/>
 [LEMO Project 발표 보고서](https://drive.google.com/file/d/1U4NcfMWQUqPMGbFhn-hMEhgmSaLpIdvR/view?usp=sharing) - 개발한 서비스 발표 보고서입니다.<br/>
-[LEMO Project 발표 동영상](https://youtu.be/QCpChcM28WY) - 개발한 서비스를 발표 영상입니다.
+[LEMO Project 발표 동영상](https://youtu.be/QCpChcM28WY) - 개발한 서비스를 발표 영상입니다.<br/>
 [LEMO 개인 담당 소개 문서](https://drive.google.com/file/d/1HKj1qAhvn0ZdD8YnTloFUv_CTnttsLGU/view?usp=sharing) - 개인 담당 개발 소개 문서입니다.<br/>
 
 
