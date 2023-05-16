@@ -5,7 +5,8 @@
 블로그형 숙박 예약 웹사이트<br/>
 Blog type Hotel Booking Site<br/>
 <br/>
-http://this-circle-jeong.site/Lemo/
+http://this-circle-jeong.site/Lemo/ (현재 클린코딩을 위한 코드 수정 작업 중입니다.) 
+http://junghyun.site/Lemo/ (대표 서버)
 
 ## 프로젝트 산출물
 
